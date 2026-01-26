@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Hotto</h1>
-<h2 align="center">Software Development student looking for a intern position for starting in the software job marke.</h2>
-<p><b>Contacts</b></p>
-- Linkedin: https://www.linkedin.com/in/hottodev
-- How to reach me **me@hotto.dev**
+<h2 align="center">Software Development student looking for a intern position.</h2>
 
+<p><b>Contacts</b></p>
+
+- **Linkedin: https://www.linkedin.com/in/hottodev**
+
+- **How to reach me me@hotto.dev**
+  
 <p><b>About me</b></p>
 
 - **Fluent in Portuguese, English and Spanish. B1 in French.**
