@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with [SaborLocal](https://projeto-final-ob82.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [hotto.dev](hotto.dev)
+- 👨‍💻 All of my projects are available at [hotto.dev](www.hotto.dev)
 
 - 📄 Know about my experiences [https://shre.ink/curriculumhotto](https://shre.ink/curriculumhotto)
 
