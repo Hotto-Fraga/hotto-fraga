@@ -17,15 +17,15 @@
 
 - **Currently completing a Level 5 qualification, with plans to pursue a Bachelor’s degree in Software Engineering.**
 
-- 🔭 I’m currently working on [Lisbon After Dark](www.hotto.dev/lisbonafterdark)
+- 🔭 I’m currently working on https://www.hotto.dev/lisbonafterdark
 
 - 🌱 I’m currently learning **Java and Node.js**
 
-- 🤝 I’m looking for help with [SaborLocal](https://projeto-final-ob82.vercel.app/)
+- 🤝 I’m looking for help with https://projeto-final-ob82.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [hotto.dev](www.hotto.dev)
+- 👨‍💻 All of my projects are available at https://www.hotto.dev
 
-- 📄 Know about my experiences [https://shre.ink/curriculumhotto](https://shre.ink/curriculumhotto)
+- 📄 Know about my experiences https://shre.ink/curriculumhotto)
 
 - ⚡ Fun fact **I'm fluent in three languages.**
 
