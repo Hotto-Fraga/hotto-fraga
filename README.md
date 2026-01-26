@@ -21,11 +21,11 @@
 
 - 🌱 I’m currently learning **Java and Node.js**
 
-- 🤝 I’m looking for help with https://projeto-final-ob82.vercel.app/)
+- 🤝 I’m looking for help with https://projeto-final-ob82.vercel.app/
 
 - 👨‍💻 All of my projects are available at https://www.hotto.dev
 
-- 📄 Know about my experiences https://shre.ink/curriculumhotto)
+- 📄 Know about my experiences https://shre.ink/curriculumhotto
 
 - ⚡ Fun fact **I'm fluent in three languages.**
 
