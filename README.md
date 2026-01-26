@@ -17,11 +17,9 @@
 
 - **Currently completing a Level 5 qualification, with plans to pursue a Bachelor’s degree in Software Engineering.**
 
-- 🔭 I’m currently working on [Lisbon After Dark](hotto.dev/lisbonafterdark)
+- 🔭 I’m currently working on [Lisbon After Dark](www.hotto.dev/lisbonafterdark)
 
 - 🌱 I’m currently learning **Java and Node.js**
-
-- 👯 I’m looking to collaborate on [Portfolio](hotto.dev)
 
 - 🤝 I’m looking for help with [SaborLocal](https://projeto-final-ob82.vercel.app/)
 
