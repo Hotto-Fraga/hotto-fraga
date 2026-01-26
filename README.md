@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Hotto</h1>
+<h1 align="center">Hi, I'm Hotto</h1>
+<h2 align="center">Software Development student looking for a intern position for starting in the software job marke.</h2>
+<p><b>Contacts</b></p>
+- Linkedin: https://www.linkedin.com/in/hottodev
+- How to reach me **me@hotto.dev**
+
+<p><b>About me</b></p>
 
 - **Fluent in Portuguese, English and Spanish. B1 in French.**
+
 - **Software Developer currently based in Lisbon.**
+
 - **Searching for a internship position.**
+
 - **Currently completing a Level 5 qualification, with plans to pursue a Bachelor’s degree in Software Engineering.**
 
 - 🔭 I’m currently working on [Lisbon After Dark](hotto.dev/lisbonafterdark)
@@ -14,8 +23,6 @@
 - 🤝 I’m looking for help with [SaborLocal](https://projeto-final-ob82.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [hotto.dev](hotto.dev)
-
-- 📫 How to reach me **me@hotto.dev**
 
 - 📄 Know about my experiences [https://shre.ink/curriculumhotto](https://shre.ink/curriculumhotto)
 
