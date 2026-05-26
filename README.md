@@ -11,21 +11,17 @@
 
 - **Fluent in Portuguese, English and Spanish. B1 in French.**
 
-- **Software Developer currently based in Lisbon.**
+- **Software Developer currently based in Barcelona.**
 
-- **Searching for a internship position.**
+- **I have a Software Development Associate Degree.**
 
-- **Currently completing a Level 5 qualification, with plans to pursue a Bachelor’s degree in Software Engineering.**
+- **Currently completing a Level 6 qualification, a Bachelor’s degree in Software Engineering.**
 
 - 🔭 I’m currently working on https://www.hotto.dev/lisbonafterdark
 
-- 🌱 I’m currently learning **Nextjs and GO**
-
-- 🤝 I’m looking for help with https://projeto-final-ob82.vercel.app/
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at https://www.hotto.dev
-
-- 📄 Know about my experiences https://shre.ink/curriculumhotto
 
 - ⚡ Fun fact **I'm fluent in three languages.**
 
