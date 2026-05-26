@@ -5,7 +5,7 @@
 
 - **Linkedin: https://www.linkedin.com/in/hottodev**
 
-- **How to reach me: me@hotto.dev**
+- **How to reach me: bhottofraga@gmail.com**
   
 <p><b>About me</b></p>
 
@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on https://www.hotto.dev/lisbonafterdark
 
-- 🌱 I’m currently learning **Java and Node.js**
+- 🌱 I’m currently learning **Nextjs and GO**
 
 - 🤝 I’m looking for help with https://projeto-final-ob82.vercel.app/
 
