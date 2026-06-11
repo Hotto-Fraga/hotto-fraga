@@ -5,7 +5,7 @@
 
 - **Linkedin: https://www.linkedin.com/in/hottodev**
 
-- **How to reach me: bhottofraga@gmail.com**
+- **How to reach me: me@hotto.dev**
   
 <p><b>About me</b></p>
 
