@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hotto</h1>
-<h2 align="center">Software Development student looking for a intern position.</h2>
+<h2 align="center">Full Stack Developer in Uniplaces</h2>
 
 <p><b>Contacts</b></p>
 
@@ -17,11 +17,9 @@
 
 - **Currently completing a Level 6 qualification, a Bachelor’s degree in Software Engineering.**
 
-- 🔭 I’m currently working on https://www.hotto.dev/lisbonafterdark
+- 🔭 I’m currently working in Uniplaces
 
 - 🌱 I’m currently learning **GO**
-
-- 👨‍💻 All of my projects are available at https://www.hotto.dev
 
 - ⚡ Fun fact **I'm fluent in three languages.**
 
